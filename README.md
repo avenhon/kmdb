@@ -1,5 +1,7 @@
 # Movie Database API
 A robust REST API for managing a movie database using Spring Boot and JPA.
+
+*kood/Jõhvi School project*
 ## The problem👀
 The local film society in your town has been maintaining their movie database using spreadsheets for years. As their collection grows, they're finding it increasingly difficult to manage and search through their data. They've approached you to create a simple yet effective API that will allow them to digitize their records and make them more accessible to members.
 
